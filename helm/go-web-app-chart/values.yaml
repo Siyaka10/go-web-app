@@ -8,7 +8,7 @@ image:
   repository: suyaka11/devopsimplemt
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "16313782863"
+  tag: "16313808072"
 
 ingress:
   enabled: false
